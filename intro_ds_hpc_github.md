@@ -1,9 +1,8 @@
-# Welcome to Data Science Bootcamp
-## Session 1: Introduction, M3 WebPortal, and JupyterLab
-
----
-
 # Welcome to the Summer Data Science Bootcamp
+
+By: Dr. Eric Godat
+
+## Session : Introduction, M3 WebPortal, and JupyterLab
 
 Welcome!
 
