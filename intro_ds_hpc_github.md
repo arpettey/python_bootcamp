@@ -1,7 +1,7 @@
 # Welcome to the Summer Data Science Bootcamp
 
-By: Dr. Eric Godat
-
+ -- Dr. Eric Godat
+ 
 ## Session : Introduction, M3 WebPortal, and JupyterLab
 
 Welcome!
